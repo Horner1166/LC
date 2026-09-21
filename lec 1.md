@@ -46,6 +46,8 @@ $1011₂ = 1×2^3 + 0×2^2 + 1×2^1 + 1×2^0 = 1×8 + 0×4 + 1×2 + 1×1 = 11$
 
 ### Процессор (CPU)
 
+<img title="" src="file:///C:/Users/Roman/Desktop/lc1/Core-i7-14900K_webp.png" alt="dfg" data-align="center" width="510"><img title="" src="file:///C:/Users/Roman/Desktop/lc1/18220124102024_c0c954a3a268bfc515e88839a41a25de5bd1b194.jpg" alt="gh" width="654" data-align="center">
+
 Это **мозг компьютера**. Он выполняет команды программ.
 
 Что важно знать:
@@ -61,6 +63,8 @@ $1011₂ = 1×2^3 + 0×2^2 + 1×2^1 + 1×2^0 = 1×8 + 0×4 + 1×2 + 1×1 = 11$
 
 ### Оперативная память (RAM, ОЗУ)
 
+<img title="" src="file:///C:/Users/Roman/Desktop/lc1/360084_1_png.png" alt="k" width="470" data-align="center">
+
 Это **Временная память (хранит запущенные программы, пока устройство включено, очищается при перезагрузке ПК)**. Чем больше RAM, тем больше программ можно открыть одновременно.
 
 Важно: RAM **энергозависима**. При выключении компьютера всё, что было в оперативной памяти, стирается. Если игра «тормозит» из-за нехватки памяти, это часто про RAM.
@@ -70,24 +74,52 @@ $1011₂ = 1×2^3 + 0×2^2 + 1×2^1 + 1×2^0 = 1×8 + 0×4 + 1×2 + 1×1 = 11$
 Это **шкаф/склад**. Здесь данные остаются после выключения.
 
 - **HDD** — жёсткий диск. Медленнее, но дешёвый и большой.
+
+
+
+<img title="" src="file:///C:/Users/Roman/Desktop/lc1/44-kopiya.png" alt="44-kopiya.png" width="351" data-align="center">
+
 - **SSD** — твердотельный накопитель. Быстрый, без движущихся частей.
-- **Флешка, карта памяти** — тоже накопители.
+
+
+
+<img title="" src="file:///C:/Users/Roman/Desktop/lc1/ssd-plus-sata-iii-ssd-left.png.wdthumb.1280.1280.png" alt="ssd-plus-sata-iii-ssd-left.png.wdthumb.1280.1280.png" width="282" data-align="inline"><img title="" src="file:///C:/Users/Roman/Desktop/lc1/45878.png" alt="ssd-plus-sata-iii-ssd-left.png.wdthumb.1280.1280.png" width="306">
+
+**Флешка, карта памяти** — тоже накопители.
 
 Игра загружается с диска в RAM, а потом процессор и видеокарта с ней работают.
 
 ### Материнская плата
 
+![motherboard-parts.png](C:\Users\Roman\Desktop\lc1\motherboard-parts.png)
+
+
+
 Это **позвоночник**. Она соединяет процессор, память, диск, видеокарту и другие устройства. По ней идут данные.
 
 ### Видеокарта (GPU)
+
+<img title="" src="file:///C:/Users/Roman/Desktop/lc1/164989_1.png" alt="164989_1.png" data-align="center" width="421">
+
+
 
 Отвечает за графику. В играх она рисует кадры. У неё своя **видеопамять**. GPU имеет много простых ядер — он хорош для параллельных вычислений: графика, нейросети, майнинг.
 
 ### Блок питания
 
+<img title="" src="file:///C:/Users/Roman/Desktop/lc1/CyberG_II_01_650_webp.png" alt="CyberG_II_01_650_webp.png" data-align="center" width="449">
+
+
+
 Преобразует ток из розетки в нужное для компьютера напряжение.
 
 ### Охлаждение
+
+
+
+<img title="" src="file:///C:/Users/Roman/Desktop/lc1/thermalright_e360kc_(chernyiy)_2_webp.png" alt="thermalright_e360kc_(chernyiy)_2_webp.png" width="317" data-align="inline"><img title="" src="file:///C:/Users/Roman/Desktop/lc1/LPC-02_1_p_webp.png" alt="f" width="293">
+
+
 
 Вентиляторы, радиаторы, иногда жидкостное охлаждение. Если процессор перегревается, он снижает частоту или срабатывает аппаратное отключение системы, чтобы предотвратить сгорание процессора.
 
