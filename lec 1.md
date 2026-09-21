@@ -46,6 +46,10 @@ $1011₂ = 1×2^3 + 0×2^2 + 1×2^1 + 1×2^0 = 1×8 + 0×4 + 1×2 + 1×1 = 11$
 
 ### Процессор (CPU)
 
+<img title="" src="https://28bit.ru/wa-data/public/shop/products/66/52/25266/images/124896/124896.970.png" alt="р" data-align="center" width="323">
+
+<img src="https://skillbox.ru/upload/setka_images/18220124102024_c0c954a3a268bfc515e88839a41a25de5bd1b194.jpg" title="" alt="а" data-align="center">
+
 Это **мозг компьютера**. Он выполняет команды программ.
 
 Что важно знать:
@@ -61,6 +65,8 @@ $1011₂ = 1×2^3 + 0×2^2 + 1×2^1 + 1×2^0 = 1×8 + 0×4 + 1×2 + 1×1 = 11$
 
 ### Оперативная память (RAM, ОЗУ)
 
+<img title="" src="https://micro-line.ru/images/thumbnails/1000/1001/detailed/343/360084_1.png" alt="о" width="437" data-align="center">
+
 Это **Временная память (хранит запущенные программы, пока устройство включено, очищается при перезагрузке ПК)**. Чем больше RAM, тем больше программ можно открыть одновременно.
 
 Важно: RAM **энергозависима**. При выключении компьютера всё, что было в оперативной памяти, стирается. Если игра «тормозит» из-за нехватки памяти, это часто про RAM.
@@ -70,25 +76,40 @@ $1011₂ = 1×2^3 + 0×2^2 + 1×2^1 + 1×2^0 = 1×8 + 0×4 + 1×2 + 1×1 = 11$
 Это **шкаф/склад**. Здесь данные остаются после выключения.
 
 - **HDD** — жёсткий диск. Медленнее, но дешёвый и большой.
+  
+  <img title="" src="https://pcmarket.uz/wp-content/uploads/2020/09/44-kopiya.png" alt="о" data-align="center" width="332">
 
 - **SSD** — твердотельный накопитель. Быстрый, без движущихся частей.
+  
+  <img title="" src="https://images.samsung.com/is/image/samsung/p6pim/ru/mz-77e500bw/gallery/ru-870-evo-sata-3-2-5-ssd-mz-77e500bw-371578699?$1164_776_PNG$" alt="d" width="299" data-align="center">
+  
+  <img title="" src="https://i.playground.ru/p/ZawxlX9UDZuiDgsffpefOg.png" alt="d" width="329" data-align="center">
+
 - **Флешка, карта памяти** — тоже накопители.
 
 Игра загружается с диска в RAM, а потом процессор и видеокарта с ней работают.
 
 ### Материнская плата
 
+<img title="" src="https://www.chaynikam.info/png/stat_mainboard3.png" alt="в" data-align="center" width="480">
+
 Это **позвоночник**. Она соединяет процессор, память, диск, видеокарту и другие устройства. По ней идут данные.
 
 ### Видеокарта (GPU)
+
+<img title="" src="https://s3.e2e4.ru/imgproxy/3847809" alt="а" width="385" data-align="center">
 
 Отвечает за графику. В играх она рисует кадры. У неё своя **видеопамять**. GPU имеет много простых ядер — он хорош для параллельных вычислений: графика, нейросети, майнинг.
 
 ### Блок питания
 
+<img title="" src="https://3logic.ru/pimg/pim/regular/1525037.jpg" alt="а" data-align="center" width="477">
+
 Преобразует ток из розетки в нужное для компьютера напряжение.
 
 ### Охлаждение
+
+<img title="" src="https://lyambda.com/wp-content/uploads/2024/01/LPC-02_1_p.webp" alt="а" width="313"><img title="" src="https://shop.by/images/thermalright_e360kc_(chernyiy)_2.webp" alt="п" width="311">
 
 Вентиляторы, радиаторы, иногда жидкостное охлаждение. Если процессор перегревается, он снижает частоту или срабатывает аппаратное отключение системы, чтобы предотвратить сгорание процессора.
 
